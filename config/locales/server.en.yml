@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    browser_bypass_enabled: "Enable the browser-bypass plugin (allows specific user-agents to skip the unsupported-browser gate)"
+    browser_bypass_allow_all: "Disable the unsupported-browser gate for ALL browsers (overrides browser_update_bypass_agents)"
+    browser_update_bypass_agents: "Pipe-delimited user-agent fragments that should bypass the browser-update interstitial even though they match browser_update_user_agents (e.g. PlayStation 5)"

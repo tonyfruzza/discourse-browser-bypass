@@ -1,0 +1,12 @@
+plugins:
+  browser_bypass_enabled:
+    default: true
+    client: false
+  browser_bypass_allow_all:
+    default: false
+    client: false
+  browser_update_bypass_agents:
+    default: "PlayStation 5"
+    type: list
+    list_type: compact
+    client: false
